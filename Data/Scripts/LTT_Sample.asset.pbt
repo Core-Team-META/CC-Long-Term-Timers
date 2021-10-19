@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 12862878010667039299
   Name: "LTT_Sample"
   PlatformAssetType: 3
@@ -12,5 +12,5 @@
       }
     }
   }
-  SerializationVersion: 71
+  SerializationVersion: 100
 }

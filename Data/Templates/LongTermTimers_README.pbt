@@ -1,4 +1,4 @@
-﻿Assets {
+Assets {
   Id: 4777242328096081175
   Name: "LongTermTimers_README"
   PlatformAssetType: 5
@@ -22,6 +22,9 @@
         Visible_v2 {
           Value: "mc:evisibilitysetting:inheritfromparent"
         }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
         Script {
           ScriptAsset {
             Id: 1349669513288553571
@@ -34,6 +37,6 @@
       AssetId: "None"
     }
   }
-  SerializationVersion: 68
+  SerializationVersion: 100
   DirectlyPublished: true
 }

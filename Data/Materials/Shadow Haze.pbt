@@ -1,8 +1,8 @@
-﻿Assets {
+Assets {
   Id: 9543645916439374330
   Name: "Shadow Haze"
   PlatformAssetType: 13
-  SerializationVersion: 71
+  SerializationVersion: 100
   CustomMaterialAsset {
     BaseMaterialId: 6401852743823439137
     ParameterOverrides {
